@@ -1,6 +1,6 @@
 # Yahboom Robot Projects
 
-A repository for information, code, pdfs, and more for some of the Adeept Robots I own.  
+A repository for information, code, pdfs, and more for some of the Yahboom Robots I own.  
 Some of this maybe from Adeept, some of is stuff I've created, some of it maybe stuff other people have created.  
 
 ## Contributing
