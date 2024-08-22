@@ -1,3 +1,7 @@
+# Archived Aug 21, 2024 
+
+I no longer own any of these robots, I am leaving the code up for historical reasons. But will no longer be working on any projects using theses robots.
+
 # Yahboom Robot Projects
 
 A repository for information, code, pdfs, and more for some of the Yahboom Robots I own.  
